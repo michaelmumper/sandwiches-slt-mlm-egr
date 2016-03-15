@@ -1,0 +1,26 @@
+Italian (White) Bread
+100
+9-Grain Wheat Bread
+105
+Parmesan Oregano Bread
+110
+Honey Oat 9-Grain Wheat Bread
+115
+Hearty Italian Bread
+105
+Monterey Cheddar Bread
+120
+Italian Herbs & Cheese Bread
+125
+Roasted Garlic Bread
+115
+Sourdough Bread
+95
+Flatbread, Multigrain Bread
+110
+Flatbread, White Bread
+110
+Mini Italian Bread
+65
+Mini Wheat Bread
+70
